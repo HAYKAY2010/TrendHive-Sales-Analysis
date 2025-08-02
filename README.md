@@ -1,1 +1,1 @@
-# TrendHive-Sales-Analysis
+# TrendHive Sales Analysis
