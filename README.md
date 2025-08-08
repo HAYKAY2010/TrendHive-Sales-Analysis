@@ -60,6 +60,6 @@ Microsoft Excel was employed for this analysis using Power Query, Power Pivot, P
 - Efforts should be made to open stores in other countries across the globe, especially in conitnents not already captured, e,g Africa, South America, and Africa.
 
 ### Challenges
-- The date posed some challenge wi=hile working with it.
+- The date posed some challenge while working with it.
 
 [Interact with the report here](https://1drv.ms/x/c/af45511f674b7166/EdTqt5swSDpGuDgjEFP-li4BfIojL0QhHNOUtgcwNf9GlQ?e=DOD4Xg)
