@@ -30,8 +30,8 @@ Microsoft Excel was employed for this analysis using Power Query, Power Pivot, P
 - Created a one-to-many relationship between the facttable and dimension tables.
 - Created needed and useful measures and columns using DAX.
 - Answered key question in summary through PivotTable.
-- Developed a 2 page report to provide an overview of the analysis.
   [Check out the PivotTable here](https://1drv.ms/x/c/af45511f674b7166/EQ3O7gLjsApPk-4tsdM9XXQBxfLblVQA38rSu5ZBK19r_g?e=u3MZf4)
+- Developed a 2 page report to provide an overview of the analysis.
   
 ### Explorative Data Analysis
 #### 1.	Sales Performance Analysis
